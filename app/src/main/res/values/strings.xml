@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="QuestionFive">which of these is the lightest (has least density)</string>
+    <string name="QuestionFour">What is created when electrons go around a corner in a Synchrotron </string>
+    <string name="QuestionThree">In what form is hydrogen used in space rockets?</string>
+</resources>
